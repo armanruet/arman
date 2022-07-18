@@ -20,5 +20,5 @@ st_button('twitter', 'https://twitter.com/arman_5227', 'Follow me on Twitter', i
 st_button('linkedin', 'https://www.linkedin.com/in/armanruet/', 'Follow me on LinkedIn', icon_size)
 #st_button('newsletter', 'https://sendfox.com/dataprofessor/', 'Sign up for my Newsletter', icon_size)
 #st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)
-st_button('GoogleScholar', 'https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en', 'visit my Google scholar page', icon_size)
-st_button('github', 'https://github.com/armanruet', 'Github', icon_size)
+#st_button('GoogleScholar', 'https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en', 'visit my Google scholar page', icon_size)
+#st_button('github', 'https://github.com/armanruet', 'Github', icon_size)
